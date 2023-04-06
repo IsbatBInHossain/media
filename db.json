@@ -1,5 +1,42 @@
 {
-  "users": [],
+  "users": [
+    {
+      "name": "Angelina Stamm",
+      "id": 5
+    },
+    {
+      "name": "Ms. Ricardo Russel",
+      "id": 7
+    },
+    {
+      "name": "Tina Gutkowski",
+      "id": 8
+    },
+    {
+      "name": "Desiree Armstrong",
+      "id": 9
+    },
+    {
+      "name": "Gretchen McDermott",
+      "id": 10
+    },
+    {
+      "name": "Carrie Sauer",
+      "id": 15
+    },
+    {
+      "name": "Denise Hand",
+      "id": 16
+    },
+    {
+      "name": "Mrs. Tamara Yost",
+      "id": 17
+    },
+    {
+      "name": "William Moen",
+      "id": 18
+    }
+  ],
   "albums": [],
   "photos": []
 }
