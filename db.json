@@ -1,42 +1,85 @@
 {
   "users": [
     {
-      "name": "Angelina Stamm",
+      "name": "Kelley Christiansen IV",
+      "id": 2
+    },
+    {
+      "name": "Yvette Moen",
+      "id": 4
+    },
+    {
+      "name": "Kellie Miller",
       "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "title": "Electronic Rubber Shirt",
+      "userId": 4,
+      "id": 6
     },
     {
-      "name": "Ms. Ricardo Russel",
-      "id": 7
+      "title": "Small Soft Sausages",
+      "userId": 4,
+      "id": 14
     },
     {
-      "name": "Tina Gutkowski",
-      "id": 8
-    },
-    {
-      "name": "Desiree Armstrong",
-      "id": 9
-    },
-    {
-      "name": "Gretchen McDermott",
-      "id": 10
-    },
-    {
-      "name": "Carrie Sauer",
+      "title": "Tasty Plastic Table",
+      "userId": 4,
       "id": 15
     },
     {
-      "name": "Denise Hand",
-      "id": 16
+      "title": "Small Concrete Pizza",
+      "userId": 2,
+      "id": 22
     },
     {
-      "name": "Mrs. Tamara Yost",
-      "id": 17
+      "title": "Sleek Cotton Pants",
+      "userId": 2,
+      "id": 24
     },
     {
-      "name": "William Moen",
-      "id": 18
+      "title": "Tasty Concrete Shirt",
+      "userId": 2,
+      "id": 25
     }
   ],
-  "albums": [],
-  "photos": []
+  "photos": [
+    {
+      "url": "https://loremflickr.com/640/480",
+      "albumId": 15,
+      "id": 1
+    },
+    {
+      "url": "https://loremflickr.com/640/480",
+      "albumId": 15,
+      "id": 2
+    },
+    {
+      "url": "https://loremflickr.com/640/480",
+      "albumId": 15,
+      "id": 3
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=51910",
+      "albumId": 22,
+      "id": 5
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=5381",
+      "albumId": 22,
+      "id": 6
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=14444",
+      "albumId": 22,
+      "id": 7
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=68475",
+      "albumId": 22,
+      "id": 8
+    }
+  ]
 }
